@@ -1,0 +1,47 @@
+label {
+	font-size: 15px;
+}
+
+.abd {
+	font-family: 'Sansita Swashed', cursive;
+	padding: 5px 15px;
+	background: #d6f5f5;
+	color: black;
+}
+
+* {
+	margin-bottom: 10px;
+}
+
+#quality {
+	padding: 10px 10px;
+	text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	background: black;
+	color: #d6f5f5;
+}
+
+#filename {
+	padding: 10px 10px;
+	text-align: center;
+	font-size: 10px;
+	font-family: 'Sansita Swashed', cursive;
+	background: black;
+	color: #d6f5f5;
+}
+#format {
+	padding: 10px 10px;
+	text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	background: black;
+	color: #d6f5f5;
+}
+
+#download {
+	padding: 10px 10px;
+	text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	background: black;
+	color: #d6f5f5;
+	border: none;
+}
