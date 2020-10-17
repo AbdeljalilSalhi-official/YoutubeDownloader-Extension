@@ -21,7 +21,7 @@ YoutubeDownloader extension includes:
     - mp3
     - mpg
 
-The videos downloaded will be saved in ```/Download/YoutubeDownloader/```
+The videos downloaded will be saved in ```/Downloads/YoutubeDownloader/```
 
 The NodeJS server is stored in [**Heroku**][heroku] Servers.
 
